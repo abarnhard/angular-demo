@@ -22,6 +22,6 @@
   "browser": true,
   "jquery": true,
 
-  "globals": {}
+  "globals": {"angular":false}
 }
 
