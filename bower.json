@@ -1,0 +1,12 @@
+{
+  "name": "angular-demo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ABarnhard/angular-demo",
+  "authors": [
+    "Adam Barnhard <admbarn@gmail.com>"
+  ],
+  "description": "My First Angular Demo",
+  "main": "public/index.js",
+  "license": "MIT",
+  "private": true
+}
